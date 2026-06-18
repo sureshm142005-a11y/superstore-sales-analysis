@@ -55,4 +55,4 @@ Analyzed 9,994 retail transactions to identify profitability drivers and root ca
 
 ---
 
-*Project completed by M SureshKumar | [Link to LinkedIn Profile]*
+
