@@ -3,7 +3,7 @@
 
 > **Author:** M SureshKumar  
 > **Role:** SQL / Data Analyst Candidate  
-> **Date:** June 2024  
+> **Date:** June 2026  
 > **Tools:** PostgreSQL, pgAdmin, Advanced SQL (CTEs, Window Functions)
 
 ---
